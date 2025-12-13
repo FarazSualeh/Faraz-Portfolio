@@ -96,7 +96,7 @@ export const projects = [
     title: "TalkToMyResume",
     des: "Chat-based resume exploration tool using AI.",
     img: "/p3.png",
-    iconLists: ["/re.svg", "/ts.svg", "/node.png", "/groq.png"],
+    iconLists: ["/next.svg", "/css.png", "/ts.svg", "/groq.png"],
     link: "https://talktomyresume.vercel.app/",
   },
 ];
