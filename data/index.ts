@@ -91,6 +91,14 @@ export const projects = [
     ],
     link: "https://farazodishaproject.vercel.app/",
   },
+  {
+    id: 3,
+    title: "TalkToMyResume",
+    des: "Chat-based resume exploration tool using AI.",
+    img: "/p3.png",
+    iconLists: ["/re.svg", "/ts.svg", "/node.png", "/groq.png"],
+    link: "https://talktomyresume.vercel.app/",
+  },
 ];
 
 export const companies = [
@@ -143,8 +151,8 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "CampusCrew Ambassador",
-    desc: "Represented the brand through online engagement, promoting events, assisting with outreach campaigns, and helping increase student participation and visibility.",
+    title: "SEO Intern",
+    desc: "Helped optimize website content for search engines by backlink building, improving on-page SEO elements, and analyzing site performance to boost organic traffic.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
