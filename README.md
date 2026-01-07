@@ -90,5 +90,3 @@ If you like this portfolio, feel free to ⭐ **Star** this repo!
 
 This project is licensed under the **MIT License**.
 See the LICENSE file for details.
-✅ A **dark / personalized version**
-Just tell me!
