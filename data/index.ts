@@ -71,11 +71,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "SwissAroma: Premium Perfume Ecommerce Platform",
-    des: "A modern online store for luxury fragrances.",
+    title: "Olipop: Modern Soda Brand Website",
+    des: "A clean and responsive brand website inspired by Olipop, showcasing products with a modern UI and smooth user experience.",
     img: "/p1.png",
-    iconLists: ["/tail.svg", "/js.png", "/node.png", "/mongodb.png"],
-    link: "https://swissaroma.com",
+    iconLists: ["/next.svg", "/css.svg", "/ts.svg"],
+    link: "https://olipopsoda.vercel.app/",
   },
   {
     id: 2,
