@@ -75,8 +75,8 @@ npm run dev
 
 If you’d like to get in touch:
 
-📧 Email: farazsualeh75@gmail.com
-🔗 Portfolio: [https://faraz-sualeh-portfolio.vercel.app/](https://faraz-sualeh-portfolio.vercel.app/)
+📧 Email: farazsualeh75@gmail.com<br>
+🔗 Portfolio: [https://faraz-sualeh-portfolio.vercel.app/](https://faraz-sualeh-portfolio.vercel.app/)<br>
 🔗 GitHub: [https://github.com/faraz-sualeh](https://github.com/faraz-sualeh)
 
 ---
